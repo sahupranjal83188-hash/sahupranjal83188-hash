@@ -6,7 +6,7 @@ I work with data analysis, statistical modeling, and machine learning workflows.
 
 ## Tools and tech stack
 
-* **Languages:** Python, SQL, R, C/C++
+* **Languages:** Python, SQL, Java, C/C++
 * **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib
 * **Data Visualization:** Tableau / PowerBI, Seaborn
 
